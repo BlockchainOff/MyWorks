@@ -1,0 +1,15 @@
+C:\Users\Леонид\Desktop\homework\MyWorks\seminar_001\bin\Debug\net6.0\seminar_001.exe
+C:\Users\Леонид\Desktop\homework\MyWorks\seminar_001\bin\Debug\net6.0\seminar_001.deps.json
+C:\Users\Леонид\Desktop\homework\MyWorks\seminar_001\bin\Debug\net6.0\seminar_001.runtimeconfig.json
+C:\Users\Леонид\Desktop\homework\MyWorks\seminar_001\bin\Debug\net6.0\seminar_001.dll
+C:\Users\Леонид\Desktop\homework\MyWorks\seminar_001\bin\Debug\net6.0\seminar_001.pdb
+C:\Users\Леонид\Desktop\homework\MyWorks\seminar_001\obj\Debug\net6.0\seminar_001.csproj.AssemblyReference.cache
+C:\Users\Леонид\Desktop\homework\MyWorks\seminar_001\obj\Debug\net6.0\seminar_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леонид\Desktop\homework\MyWorks\seminar_001\obj\Debug\net6.0\seminar_001.AssemblyInfoInputs.cache
+C:\Users\Леонид\Desktop\homework\MyWorks\seminar_001\obj\Debug\net6.0\seminar_001.AssemblyInfo.cs
+C:\Users\Леонид\Desktop\homework\MyWorks\seminar_001\obj\Debug\net6.0\seminar_001.csproj.CoreCompileInputs.cache
+C:\Users\Леонид\Desktop\homework\MyWorks\seminar_001\obj\Debug\net6.0\seminar_001.dll
+C:\Users\Леонид\Desktop\homework\MyWorks\seminar_001\obj\Debug\net6.0\refint\seminar_001.dll
+C:\Users\Леонид\Desktop\homework\MyWorks\seminar_001\obj\Debug\net6.0\seminar_001.pdb
+C:\Users\Леонид\Desktop\homework\MyWorks\seminar_001\obj\Debug\net6.0\seminar_001.genruntimeconfig.cache
+C:\Users\Леонид\Desktop\homework\MyWorks\seminar_001\obj\Debug\net6.0\ref\seminar_001.dll
