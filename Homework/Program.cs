@@ -18,3 +18,71 @@ a = -9 b = -3 -> max = -3
 5 -> 2, 4
 8 -> 2, 4, 6, 8
 */
+
+/* Задача 2.
+            int numbOne = Convert.ToInt32(Console.ReadLine());
+            int numbTwo = Convert.ToInt32(Console.ReadLine());
+
+            if (numbOne > numbTwo)
+            {
+                Console.WriteLine(numbOne);
+            }
+            else
+            {
+                Console.WriteLine(numbTwo);
+                
+            }
+            */
+
+            /*
+             * задача 4.
+            int numbOne = Convert.ToInt32(Console.ReadLine());
+            int numbTwo = Convert.ToInt32(Console.ReadLine());
+            int numbThree = Convert.ToInt32(Console.ReadLine());
+
+            if (numbOne > numbTwo)
+            {
+                if(numbOne > numbThree)
+                {
+                    Console.WriteLine(numbOne);
+                }
+                else
+                {
+                    Console.WriteLine(numbThree);
+                }
+            }
+            else if (numbTwo > numbThree)
+            {
+                Console.WriteLine(numbTwo);
+            }
+            else 
+            {
+                Console.WriteLine(numbThree);
+            }
+            */
+
+            /*Задача 6.
+            int numbOne = Convert.ToInt32(Console.ReadLine());
+
+            if (numbOne % 2==0)
+            {
+                Console.WriteLine("да");
+            }
+            else
+            {
+                Console.WriteLine("нет");
+            }
+            */
+
+           /* Задача 8.
+
+            int numbN = Convert.ToInt32(Console.ReadLine());
+
+            for (int i = 1; i < numbN; i++)
+            {
+                if (i % 2 == 0)
+                {
+                    Console.WriteLine(i);
+                }
+            }
+*/
