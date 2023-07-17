@@ -43,3 +43,4 @@ void Summa()
     Console.WriteLine(result);
 }
 Summa();
+*/
