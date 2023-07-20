@@ -47,8 +47,8 @@ evenNumber(massiv);
 [3, 7, 23, 12] -> 19
 [-4, -6, 89, 6]-> 0
 */
-/*
 
+/*
 int[] RandomArray() 
 {
     int size = new Random().Next(4, 5);
@@ -67,25 +67,84 @@ void PrintArray(int[] array)
     Console.WriteLine();
 }
 
-
-void oddNumber(int[] array)
+int oddNumber(int[] array)
 {
     int summ = 0;
     for(int i  = 0; i < array.Length;i++)
     {
         if(i % 2 != 0)
         {
-            summ = summ + array[i];
+            summ += array[i];
         }
-        
     }
-    Console.Write(summ);
-
-
+    return summ;
 }
 
 int[] massiv = RandomArray();
 PrintArray(massiv);
-oddNumber(massiv);
+int summ = oddNumber(massiv);
 
+Console.WriteLine(summ);
+*/
+
+/*
+ Задача 38: Задайте массив вещественных чисел. 
+Найдите разницу между максимальным и минимальным элементов массива.
+[3.22, 4.2, 1.15, 77.15, 65.2] => 77.15 - 1.15 = 76
+ */
+
+/*
+double[] RandomArray()
+{
+    int size = new Random().Next(4, 5);
+    double[] randomArray = new double[size];
+    for (int i = 0; i < size; i++)
+    {
+        randomArray[i] = new Random().Next(1, 50) + new Random().NextDouble();
+    }
+    return randomArray;
+}
+
+void PrintArray(double[] array)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write($"{array[i]:f2}" + "; ");
+    }
+    Console.WriteLine();
+}
+
+double[] massiv = RandomArray();
+PrintArray(massiv);
+
+double maxNum(double[] array)
+{
+    double maxNumber = array[0];
+    for(int i = 0; i < array.Length; i++)
+    {
+        if(maxNumber < array[i])
+        {
+            maxNumber = array[i];
+        }
+    }
+    return maxNumber;
+}
+
+double minNum(double[] array)
+{
+    double minNumber = array[0];
+    for (int i = 0; i < array.Length; i++)
+    {
+        if (minNumber > array[i])
+        {
+            minNumber = array[i];
+        }
+    }
+    return minNumber;
+}
+
+double maxDec = maxNum(massiv);
+double minDec = minNum(massiv);
+double result = maxDec - minDec;
+Console.WriteLine($"{result:f2}");
 */
