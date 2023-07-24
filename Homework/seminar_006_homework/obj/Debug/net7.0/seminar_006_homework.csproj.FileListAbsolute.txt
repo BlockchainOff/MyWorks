@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\7777\MyWorks\Homework\seminar_006_homework\bin\Debug\net7.0\seminar_006_homework.exe
+C:\Users\User\Desktop\7777\MyWorks\Homework\seminar_006_homework\bin\Debug\net7.0\seminar_006_homework.deps.json
+C:\Users\User\Desktop\7777\MyWorks\Homework\seminar_006_homework\bin\Debug\net7.0\seminar_006_homework.runtimeconfig.json
+C:\Users\User\Desktop\7777\MyWorks\Homework\seminar_006_homework\bin\Debug\net7.0\seminar_006_homework.dll
+C:\Users\User\Desktop\7777\MyWorks\Homework\seminar_006_homework\bin\Debug\net7.0\seminar_006_homework.pdb
+C:\Users\User\Desktop\7777\MyWorks\Homework\seminar_006_homework\obj\Debug\net7.0\seminar_006_homework.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\7777\MyWorks\Homework\seminar_006_homework\obj\Debug\net7.0\seminar_006_homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\7777\MyWorks\Homework\seminar_006_homework\obj\Debug\net7.0\seminar_006_homework.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\7777\MyWorks\Homework\seminar_006_homework\obj\Debug\net7.0\seminar_006_homework.AssemblyInfo.cs
+C:\Users\User\Desktop\7777\MyWorks\Homework\seminar_006_homework\obj\Debug\net7.0\seminar_006_homework.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\7777\MyWorks\Homework\seminar_006_homework\obj\Debug\net7.0\seminar_006_homework.dll
+C:\Users\User\Desktop\7777\MyWorks\Homework\seminar_006_homework\obj\Debug\net7.0\refint\seminar_006_homework.dll
+C:\Users\User\Desktop\7777\MyWorks\Homework\seminar_006_homework\obj\Debug\net7.0\seminar_006_homework.pdb
+C:\Users\User\Desktop\7777\MyWorks\Homework\seminar_006_homework\obj\Debug\net7.0\seminar_006_homework.genruntimeconfig.cache
+C:\Users\User\Desktop\7777\MyWorks\Homework\seminar_006_homework\obj\Debug\net7.0\ref\seminar_006_homework.dll
